@@ -21,7 +21,7 @@
 ![Screenshot (35)](https://user-images.githubusercontent.com/92704969/139584891-81b92b8b-d228-4335-a03c-b7fb6bd191e4.png)
 ### Membuat flowchart dari program ini
 - Mengunakan Pseudocode berikut :
-> 0. Function main
+> >Function main
 
     > Declare Real phi, luas, kel
 
