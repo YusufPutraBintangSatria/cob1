@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Lenovo g405"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-10-31 09:03:59 "/>
+        <attribute name="created" value="TGVub3ZvIGc0MDU7TEVOT1ZPOzIwMjEtMTAtMzE7IjA0OjM2OjA2ICI7MjU2Ng=="/>
+        <attribute name="edited" value="TGVub3ZvIGc0MDU7TEVOT1ZPOzIwMjEtMTAtMzE7IjA5OjAzOjU5ICI7MTsyNjgx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="phi, luas, kel" type="Real" array="False" size=""/>
+            <declare name="r" type="Integer" array="False" size=""/>
+            <assign variable="phi" expression="22/7"/>
+            <output expression="&quot;Menghitung Luas dan Keliling Lingkaran&quot;" newline="True"/>
+            <output expression="&quot;Masukan nilai jari-jari=&quot;" newline="False"/>
+            <input variable="r"/>
+            <assign variable="luas" expression="phi*r*r"/>
+            <assign variable="kel" expression="2*Phi*r"/>
+            <output expression="&quot;Hasil Luas=&quot;" newline="False"/>
+            <output expression="luas" newline="True"/>
+            <output expression="&quot;Hasil Keliling=&quot;" newline="False"/>
+            <output expression="kel" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
