@@ -3,51 +3,62 @@
 
 ### Membuat Program Menghitung Luas dan Keliling Lingkaran
 - Masukan kode berikut :
-> print("Program Menghitung Luas dan Keliling Lingkaran")
+>
+  1 print("Program Menghitung Luas dan Keliling Lingkaran")
 
-> r = int(input("Masukan Jari - Jari = "))
+  2 r = int(input("Masukan Jari - Jari = "))
 
-> phi = 22/7
+  3
+  
+  4 phi = 22/7
 
-> luas = phi*r*r
+  5 luas = phi*r*r
 
-> kel = 2*phi*r
+  6 kel = 2*phi*r
 
-> print("Luas Lingkaran Adalah       = ", luas)
+  7
+  
+  8 print("Luas Lingkaran Adalah       = ", luas)
 
-> print("Keliling Lingkaran Adalah   = ", kel)
+  9 print("Keliling Lingkaran Adalah   = ", kel)
+>
 
 - Ini adalah tampilan programnya
 ![Screenshot (35)](https://user-images.githubusercontent.com/92704969/139584891-81b92b8b-d228-4335-a03c-b7fb6bd191e4.png)
 ### Membuat flowchart dari program ini
 - Mengunakan Pseudocode berikut :
-> >Function main
+>
 
-    > Declare Real phi, luas, kel
+    1 Function main
 
-    > Declare Integer r 
+         2 Declare Real phi, luas, kel
 
-    > Assign phi = 22/7
+         3
+         
+         4  Declare Integer r 
 
-    > Output "Menghitung Luas dan Keliling Lingkaran"
+         5 Assign phi = 22/7
 
-    > Output "Masukan nilai jari-jari="
+         6 Output "Menghitung Luas dan Keliling Lingkaran"
 
-    > Input r
+         7 Output "Masukan nilai jari-jari="
 
-    > Assign luas = phi*r*r
+         8 Input r
 
-    > Output kel = 2*phi*r
+         9 Assign luas = phi*r*r
 
-    > Output "Hasil luas="
+         10 Output kel = 2*phi*r
 
-    > Output luas
+         11 Output "Hasil luas="
 
-    > Output "Hasil keliling="
+         12 Output luas
 
-    > Output kel
+         13 Output "Hasil keliling="
 
-> End 
+         14 Output kel
+
+    15 End
+>  
 
 - Ini adalah tampilan Flowchart
 
