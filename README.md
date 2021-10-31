@@ -4,7 +4,8 @@
 ### Membuat Program Menghitung Luas dan Keliling Lingkaran
 - Masukan kode berikut :
 >
-  > 1 print("Program Menghitung Luas dan Keliling Lingkaran")
+  >
+    1 print("Program Menghitung Luas dan Keliling Lingkaran")
 
     2 r = int(input("Masukan Jari - Jari = "))
 
@@ -20,7 +21,8 @@
   
     8 print("Luas Lingkaran Adalah       = ", luas)
 
-  > 9 print("Keliling Lingkaran Adalah   = ", kel)
+   9 print("Keliling Lingkaran Adalah   = ", kel)
+ >
 >
 
 - Ini adalah tampilan programnya
