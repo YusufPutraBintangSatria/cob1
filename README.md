@@ -21,7 +21,7 @@
   
     8 print("Luas Lingkaran Adalah       = ", luas)
 
-   9 print("Keliling Lingkaran Adalah   = ", kel)
+    9 print("Keliling Lingkaran Adalah   = ", kel)
  >
 >
 
